@@ -11,7 +11,7 @@ fastapi = "^0.100.0"
 uvicorn = "^0.23.1"
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.7.0"
+black = "^24.3.0"
 locust = "^2.15.1"
 
 [build-system]
